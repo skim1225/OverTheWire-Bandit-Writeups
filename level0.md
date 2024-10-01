@@ -11,7 +11,7 @@ How to use SSH on wikiHow
 
 ## Solution
 ```
-cmd: ssh bandit0@bandit.labs.overthewire.org -p 2220
+cmd: ssh <username>@bandit.labs.overthewire.org -p <portnumber>
 cmd: Y
-cmd: bandit0
+cmd: <password>
 ```
