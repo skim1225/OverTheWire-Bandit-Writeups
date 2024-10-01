@@ -17,3 +17,4 @@ cmd: ls
 cmd: cat readme
 ```
 This will output the password into the terminal.
+ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
